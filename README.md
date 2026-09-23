@@ -1,1 +1,2 @@
-# Rass-Test
+# Pi-Agent-Mini
+# Just a student project
